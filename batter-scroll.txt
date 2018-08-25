@@ -1,0 +1,5 @@
+介绍batter-scroll比较好的
+https://zhuanlan.zhihu.com/p/31017538
+
+
+注意在使用<scroll></scroll>时，要有一个根标签
