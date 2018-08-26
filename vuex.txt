@@ -1,0 +1,1 @@
+使用vuex 时，action是处理对state异步操作的时候，mutation只能对state进行同步操作
